@@ -29,7 +29,7 @@ btn2.addEventListener("click", function(){
 const btn3 = document.getElementById("btn3");
 const msg = document.getElementById("msg");
 btn3.addEventListener("click", function(){
-    msg.textContent = "Achouu, eu Thiago";
+    msg.textContent = "me achou.";
 });
 
 // Exercício 5
